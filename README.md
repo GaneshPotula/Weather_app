@@ -63,4 +63,4 @@ Users often struggle to access accurate and timely weather information, which ca
 
 1. **Clone the Repository:**
    ```bash
-    https://github.com/GaneshPotula/Weather_app/edit/main/README.md
+      https://github.com/GaneshPotula/Weather_app/edit/main/README.md
